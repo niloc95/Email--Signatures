@@ -2,14 +2,14 @@
   "id": "light",
   "signature": "Kind regards,",
   "name": "Nilo Cara",
-  "title": "Managing Director",
+  "title": "Software Engineer",
   "welcome": "Dear [ Client ],",
   "introParagraph": "Thanks for writing up this email.<br/> I will be delighted to reply to you. <br />[ Please delete this first, then add your reply]",
-  "contactMain": " <a href='https://api.whatsapp.com/send?phone=27834488244'><span class='contact2'>+27 83 448 8244</span></a><br/> ",
-  "contactMail": "  <a href='mailto:bernd@studiomerkmann.co.za' target='_blank'><span class='contact2'>bernd@studiomerkmann.co.za</span></a>",
-  "contactSecondary": "<a href='https://studiomerkmann.co.za'><span class='contact2'>Sandton, Johannesburg, South Africa</span></a>",
-  "logoUrl": "/assets/Black.png",
-  "logoAlt": "Studiomerkmann Logo",
-  "website": "https://studiomerkmann.co.za",
-  "company": "Studio Merkmann (Pty)Ltd"
+  "contactMain": " <a href='https://api.whatsapp.com/send?phone=2785292242'><span class='contact2'>+27 82 529 2242</span></a><br/> ",
+  "contactMail": "  <a href='mailto:nilo.cara@gmail.com' target='_blank'><span class='contact2'>nilo.cara@gmail.com</span></a>",
+  "contactSecondary": "<a href='https://frontend.co.za'><span class='contact2'>Sandton, Johannesburg, South Africa</span></a>",
+  "logoUrl": "/assets/new_logo.png",
+  "logoAlt": "Nilo Cara Logo",
+  "website": "https://frontend.co.za",
+  "company": "Frontend Software Development(Pty)Ltd"
 }
